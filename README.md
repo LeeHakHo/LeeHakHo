@@ -1,6 +1,6 @@
 ### Hi there, I'm Hyeonho Oh👋
-### I am preparing a review summary for the papers I have read.
-### https://leehakho.notion.site/Paper-Review-5390717b42774e9b9ba3d06196903019
+## I am preparing a review summary for the papers I have read.
+## https://leehakho.notion.site/Paper-Review-5390717b42774e9b9ba3d06196903019
 
 <!--
 **LeeHakHo/LeeHakHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
