@@ -2,7 +2,7 @@
 + Personal website: https://leehakho.github.io/
 + Linkedin: https://www.linkedin.com/in/hyeonhoo/
   
-+ 🌱 I am preparing a review summary for the papers I have read.  
++ I am preparing a review summary for the papers I have read. 🌱  
 Here is  the link: https://leehakho.notion.site/Paper-Review-5390717b42774e9b9ba3d06196903019
 
 <!--
